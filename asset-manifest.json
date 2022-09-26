@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a0f2bde5.css",
+    "main.js": "./static/js/main.c1c25619.js",
+    "static/js/787.1ed0c42c.chunk.js": "./static/js/787.1ed0c42c.chunk.js",
+    "static/media/EurostileBold.ttf": "./static/media/EurostileBold.f46703783c3d654f12e7.ttf",
+    "static/media/EurostileOblique.ttf": "./static/media/EurostileOblique.6ae38e99ad30a8d76848.ttf",
+    "static/media/EurostileExtended.ttf": "./static/media/EurostileExtended.cb8c37dff799af57608e.ttf",
+    "static/media/EuroStyle Normal.ttf": "./static/media/EuroStyle Normal.484dfcabae8f37b92ef4.ttf",
+    "index.html": "./index.html",
+    "main.a0f2bde5.css.map": "./static/css/main.a0f2bde5.css.map",
+    "main.c1c25619.js.map": "./static/js/main.c1c25619.js.map",
+    "787.1ed0c42c.chunk.js.map": "./static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0f2bde5.css",
+    "static/js/main.c1c25619.js"
+  ]
+}
